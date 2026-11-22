@@ -9,3 +9,4 @@ Order Details.csv: Contains line-item transactional data including Order ID, Amo
 Sales target.csv: Contains monthly sales targets segmented by Category and Month of Order Date.
 ## Key Steps
 ### Import Data:
+Imported List of Orders.csv, Order Details.csv, and Sales target.csv into Power BI Desktop and launched the Power Query Editor 

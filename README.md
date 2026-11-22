@@ -30,4 +30,7 @@ Converted Order Date to the Date data type.
   Profit = 0 $\rightarrow$ Break-Even
 
   Profit > 0 $\rightarrow$ Profit
+### Data Merging (Joins)
+
+   Performed a Merge Queries as New operation joining List of Orders and Order Details on the common Order ID key to create a consolidated analytical table named     Orders Data.
 

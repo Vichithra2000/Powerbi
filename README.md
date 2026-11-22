@@ -20,7 +20,7 @@ Converted Order Date to the Date data type.
 
 - Text Formatting & Concatenation:
 
-Standardized CustomerName using Capitalize Each Word (Proper Case).
+  Standardized CustomerName using Capitalize Each Word (Proper Case).
 
-Merged City and State into a single formatted column named Location (City, State).
+  Merged City and State into a single formatted column named Location (City, State).
 

@@ -34,3 +34,13 @@ Converted Order Date to the Date data type.
 
    Performed a Merge Queries as New operation joining List of Orders and Order Details on the common Order ID key to create a consolidated analytical table named     Orders Data.
 
+### Sorting & Regional Filtering
+
+  Applied sorting and filtering on the Orders Data table to extract targeted insights:
+
+  Sorted Order Date in descending order to inspect the most recent order trends.
+
+  Filtered by State (e.g., Tamil Nadu) to isolate and evaluate regional sales performance.
+
+ ### Grouping & Aggregations
+

@@ -11,14 +11,14 @@ Sales target.csv: Contains monthly sales targets segmented by Category and Month
 ### Import Data:
 Imported List of Orders.csv, Order Details.csv, and Sales target.csv into Power BI Desktop and launched the Power Query Editor 
 ### Data Transformation:
-Row Filtering: Restricted the List of Orders table to the top 500 rows (Keep Top Rows) to establish a focused working sample.
+- Row Filtering: Restricted the List of Orders table to the top 500 rows (Keep Top Rows) to establish a focused working sample.
 
 - Data Type Standardization: 
 Converted Order Date to the Date data type.
 
 Converted Amount and Target columns to Fixed Decimal Number (Currency) to ensure financial precision.
 
--Text Formatting & Concatenation:
+- Text Formatting & Concatenation:
 
 Standardized CustomerName using Capitalize Each Word (Proper Case).
 

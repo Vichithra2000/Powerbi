@@ -23,4 +23,11 @@ Converted Order Date to the Date data type.
   Standardized CustomerName using Capitalize Each Word (Proper Case).
 
   Merged City and State into a single formatted column named Location (City, State).
+- Profit Status: Created using conditional logic based on the Profit column:
+
+  Profit < 0 $\rightarrow$ Loss
+
+  Profit = 0 $\rightarrow$ Break-Even
+
+  Profit > 0 $\rightarrow$ Profit
 

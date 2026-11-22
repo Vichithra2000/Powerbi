@@ -16,7 +16,7 @@ Imported List of Orders.csv, Order Details.csv, and Sales target.csv into Power 
 - Data Type Standardization: 
 Converted Order Date to the Date data type.
 
-Converted Amount and Target columns to Fixed Decimal Number (Currency) to ensure financial precision.
+  Converted Amount and Target columns to Fixed Decimal Number (Currency) to ensure financial precision.
 
 - Text Formatting & Concatenation:
 

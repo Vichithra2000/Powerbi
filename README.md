@@ -7,3 +7,5 @@ List of Orders.csv: Contains order-level metadata including Order ID, Order Date
 Order Details.csv: Contains line-item transactional data including Order ID, Amount, Profit, Quantity, Category, and Sub-Category.
 
 Sales target.csv: Contains monthly sales targets segmented by Category and Month of Order Date.
+## Key Steps
+### Import Data:

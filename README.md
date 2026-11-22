@@ -42,5 +42,11 @@ Converted Order Date to the Date data type.
 
   Filtered by State (e.g., Tamil Nadu) to isolate and evaluate regional sales performance.
 
- ### Grouping & Aggregations
+ ### Data Modeling & Relationships
+
+  Configured the relational schema in the Model View:
+
+  List of Orders $\leftrightarrow$ Order Details: Connected via Order ID (One-to-Many relationship).
+
+  Order Details $\leftrightarrow$ Sales target: Connected via Category and verified as an Active relationship in Manage Relationships.
 
